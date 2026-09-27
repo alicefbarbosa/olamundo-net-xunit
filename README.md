@@ -38,6 +38,31 @@ olamundo-net-xunit/
 └── README.md
 ```
 
+## Como executar
+
+### Executar a aplicação
+
+No terminal, dentro da pasta do projeto, execute:
+
+```bash
+dotnet run
+```
+
+### Executar os testes
+
+Para executar os testes unitários, utilize:
+
+```bash
+dotnet test
+```
+
+Os testes devem ser executados com sucesso.
+
+## Objetivo
+
+Praticar a criação de uma solução .NET, o desenvolvimento de testes unitários com xUnit e o versionamento de projetos utilizando Git e GitHub.
+
+
 ## Sobre os Autores
 - Alice Fernandes Barbosa - @alicefbarbosa - 326128348
 - Ana Carolina de Sousa Freitas - @AnaFreitas1 - 325132932
